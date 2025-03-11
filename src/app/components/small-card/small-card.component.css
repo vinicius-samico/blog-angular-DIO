@@ -1,6 +1,7 @@
 .container__small-card{
    
     width: 700px;
+    height: 200px;
     margin-bottom: 15px;
    
 }
@@ -11,7 +12,7 @@
 }
 
 .small-card__photo > img{
-    min-width: 200px;
+    min-width: 350px;
     width: 200px;
     margin-right: 20px;
 }
